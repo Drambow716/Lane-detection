@@ -1,0 +1,2 @@
+Steps:
+1. detect the lanes with binary inversion
